@@ -986,7 +986,7 @@ body {
 
 }
 
-@media screen and (min-width: 18.75em) and (max-width: 41.68em) and (orientation: landscape) {
+@media screen and (orientation: landscape) and (min-width: 18.75em) and (max-width: 41.68em) {
 
      .inicio h1 {
     display: flex;
@@ -1113,7 +1113,7 @@ body {
 
 
 
-@media screen and (min-width: 41.75em) and (max-width: 47.50em) and (orientation: landscape) {
+@media screen and (orientation: landscape) and (min-width: 41.75em) and (max-width: 47.50em) {
 
      .inicio h1 {
     display: flex;
@@ -1240,7 +1240,7 @@ body {
 
 
 
-@media screen and (min-width: 41.75em) and (max-width: 47.50em) and (orientation: landscape) {
+@media screen and (orientation: landscape) and (min-width: 41.75em) and (max-width: 47.50em) {
 
      .inicio h1 {
     display: flex;
