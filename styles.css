@@ -986,7 +986,7 @@ body {
 
 }
 
-@media screen and (min-width: 660px) and (max-width: 667px) and (orientation: landscape) {
+@media screen and (max-width: 667px) and (orientation: landscape) {
 
      .inicio h1 {
     display: flex;
